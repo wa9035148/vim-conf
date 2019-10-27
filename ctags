@@ -1,0 +1,4 @@
+--exclude=.git
+
+--extra=+q
+--field=+i
